@@ -6,6 +6,10 @@ Components
 
 This repository has some components made with [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) and [tailwindcss](https://tailwindcss.com/). 
 
+**These project are hosted on this page: https://mouracamila.github.io/components/**
+
+### Circle Progress 
+<img  width="500" height="300" alt="CircleProgress" src="ScreenshotProgress.png" />
 
 ## How to use
 
